@@ -1,0 +1,11 @@
+
+.imge{
+        
+        width:auto;
+        height:auto;
+
+       display:flex;
+       flex-direction: column; 
+       background-size:auto 500px ;     
+
+}
